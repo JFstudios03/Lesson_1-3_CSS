@@ -1,6 +1,6 @@
 *{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgb(255, 248, 255);
+    /* background-color: rgb(255, 248, 255); */
 }
 
 .title{
@@ -45,5 +45,10 @@
 .footer{
     text-align: center;
     background-color: rgb(83, 0, 83);
+    color: white;
+}
+
+.link{
+    text-decoration: none;
     color: white;
 }
